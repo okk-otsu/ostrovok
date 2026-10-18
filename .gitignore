@@ -1,0 +1,12 @@
+.env
+data/*.db
+data/*.db-shm
+data/*.db-wal
+
+# Go build artifacts
+/agent
+*.test
+coverage.out
+
+# macOS
+.DS_Store
